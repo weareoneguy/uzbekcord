@@ -1,10 +1,3 @@
-		--[[
-        сделано не нами!!
-        t.me/uzbek_cc
-        This Gui is Undetectable
-        RespectFilteringEnabled must be false to use it
-        --]]
-
         local ScreenGui = Instance.new("ScreenGui")
         local Draggable = Instance.new("Frame")
         local Frame = Instance.new("Frame")
