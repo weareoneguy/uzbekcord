@@ -1,5 +1,5 @@
 		--[[
-        Made with love by uzbek project
+        сделано не нами!!
         t.me/uzbek_cc
         This Gui is Undetectable
         RespectFilteringEnabled must be false to use it
@@ -322,3 +322,5 @@
         Time.Text ="RespectFilteringEnabled(RFE) : false"
         Time.TextColor = BrickColor.new(0,255,0)
         end
+end
+	end
